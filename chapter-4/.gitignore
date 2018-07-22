@@ -1,0 +1,5 @@
+.idea
+venv
+*.log
+pyOCR_example/
+pycaptcha/

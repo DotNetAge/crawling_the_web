@@ -1,0 +1,11 @@
+Via: BJ-H-NX-106(HIT), http/1.1 GZ-CT-1-JCS-22 ( [cRs f ])
+Ser: 130.30
+Content-Encoding: gzip
+Age: 5
+Expires: Mon, 01 Jan 2018 06:47:11 GMT
+Vary: Accept-Encoding
+Server: JDWS/2.0
+Strict-Transport-Security: max-age=360
+Cache-Control: max-age=30
+Date: Mon, 01 Jan 2018 06:47:10 GMT
+Content-Type: text/html; charset=utf-8

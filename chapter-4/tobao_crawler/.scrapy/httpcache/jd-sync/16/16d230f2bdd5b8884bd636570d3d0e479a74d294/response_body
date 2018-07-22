@@ -1,0 +1,12 @@
+User-agent: * 
+Disallow: /?* 
+Disallow: /pop/*.html 
+Disallow: /pinpai/*.html?* 
+User-agent: EtaoSpider 
+Disallow: / 
+User-agent: HuihuiSpider 
+Disallow: / 
+User-agent: GwdangSpider 
+Disallow: / 
+User-agent: WochachaSpider 
+Disallow: /
